@@ -1,0 +1,15 @@
+{
+  "name": "gulptrav",
+  "version": "1.0.0",
+  "description": "gulp bt",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test!"
+  },
+  "author": "miketraves\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D traves",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
